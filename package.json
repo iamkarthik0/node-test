@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "it": "^1.1.1"
+  },
+  "name": "cfg",
+  "version": "1.0.0",
+  "type": "module", 
+  "main": "index.js",
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skiller",
+  "license": "ISC",
+  "description": ""
+}
